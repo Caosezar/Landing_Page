@@ -100,9 +100,9 @@ body {font-size: 100%;
     margin-bottom: 14px;
 }
 .conteudo-secundario-paragrafo{
-    font-family: 'Rowdies' cursive ;
+    font-family: 'Roboto Mono', monospace;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 15px;
     color: floralwhite;
 }
 .rodape{
